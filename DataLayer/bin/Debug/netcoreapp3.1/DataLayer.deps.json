@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DataLayer/1.0.0": {
+        "dependencies": {
+          "BOLayer": "1.0.0"
+        },
+        "runtime": {
+          "DataLayer.dll": {}
+        }
+      },
+      "BOLayer/1.0.0": {
+        "runtime": {
+          "BOLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BOLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

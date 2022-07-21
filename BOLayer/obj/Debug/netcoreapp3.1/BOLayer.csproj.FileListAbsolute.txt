@@ -1,0 +1,10 @@
+C:\Users\remus\Downloads\ATM-master\ATM-master\BOLayer\bin\Debug\netcoreapp3.1\BOLayer.deps.json
+C:\Users\remus\Downloads\ATM-master\ATM-master\BOLayer\bin\Debug\netcoreapp3.1\BOLayer.dll
+C:\Users\remus\Downloads\ATM-master\ATM-master\BOLayer\bin\Debug\netcoreapp3.1\BOLayer.pdb
+C:\Users\remus\Downloads\ATM-master\ATM-master\BOLayer\obj\Debug\netcoreapp3.1\BOLayer.csproj.AssemblyReference.cache
+C:\Users\remus\Downloads\ATM-master\ATM-master\BOLayer\obj\Debug\netcoreapp3.1\BOLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remus\Downloads\ATM-master\ATM-master\BOLayer\obj\Debug\netcoreapp3.1\BOLayer.AssemblyInfoInputs.cache
+C:\Users\remus\Downloads\ATM-master\ATM-master\BOLayer\obj\Debug\netcoreapp3.1\BOLayer.AssemblyInfo.cs
+C:\Users\remus\Downloads\ATM-master\ATM-master\BOLayer\obj\Debug\netcoreapp3.1\BOLayer.csproj.CoreCompileInputs.cache
+C:\Users\remus\Downloads\ATM-master\ATM-master\BOLayer\obj\Debug\netcoreapp3.1\BOLayer.dll
+C:\Users\remus\Downloads\ATM-master\ATM-master\BOLayer\obj\Debug\netcoreapp3.1\BOLayer.pdb
