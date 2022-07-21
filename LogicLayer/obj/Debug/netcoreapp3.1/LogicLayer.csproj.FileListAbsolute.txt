@@ -1,0 +1,15 @@
+C:\Users\remus\Downloads\ATM-master\ATM-master\LogicLayer\bin\Debug\netcoreapp3.1\LogicLayer.deps.json
+C:\Users\remus\Downloads\ATM-master\ATM-master\LogicLayer\bin\Debug\netcoreapp3.1\LogicLayer.dll
+C:\Users\remus\Downloads\ATM-master\ATM-master\LogicLayer\bin\Debug\netcoreapp3.1\LogicLayer.pdb
+C:\Users\remus\Downloads\ATM-master\ATM-master\LogicLayer\bin\Debug\netcoreapp3.1\BOLayer.dll
+C:\Users\remus\Downloads\ATM-master\ATM-master\LogicLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\remus\Downloads\ATM-master\ATM-master\LogicLayer\bin\Debug\netcoreapp3.1\BOLayer.pdb
+C:\Users\remus\Downloads\ATM-master\ATM-master\LogicLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\remus\Downloads\ATM-master\ATM-master\LogicLayer\obj\Debug\netcoreapp3.1\LogicLayer.csproj.AssemblyReference.cache
+C:\Users\remus\Downloads\ATM-master\ATM-master\LogicLayer\obj\Debug\netcoreapp3.1\LogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remus\Downloads\ATM-master\ATM-master\LogicLayer\obj\Debug\netcoreapp3.1\LogicLayer.AssemblyInfoInputs.cache
+C:\Users\remus\Downloads\ATM-master\ATM-master\LogicLayer\obj\Debug\netcoreapp3.1\LogicLayer.AssemblyInfo.cs
+C:\Users\remus\Downloads\ATM-master\ATM-master\LogicLayer\obj\Debug\netcoreapp3.1\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\remus\Downloads\ATM-master\ATM-master\LogicLayer\obj\Debug\netcoreapp3.1\LogicLayer.csproj.CopyComplete
+C:\Users\remus\Downloads\ATM-master\ATM-master\LogicLayer\obj\Debug\netcoreapp3.1\LogicLayer.dll
+C:\Users\remus\Downloads\ATM-master\ATM-master\LogicLayer\obj\Debug\netcoreapp3.1\LogicLayer.pdb

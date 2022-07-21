@@ -1,0 +1,17 @@
+C:\Users\remus\Downloads\ATM-master\ATM-master\ViewLayer\bin\Debug\netcoreapp3.1\ViewLayer.deps.json
+C:\Users\remus\Downloads\ATM-master\ATM-master\ViewLayer\bin\Debug\netcoreapp3.1\ViewLayer.dll
+C:\Users\remus\Downloads\ATM-master\ATM-master\ViewLayer\bin\Debug\netcoreapp3.1\ViewLayer.pdb
+C:\Users\remus\Downloads\ATM-master\ATM-master\ViewLayer\bin\Debug\netcoreapp3.1\BOLayer.dll
+C:\Users\remus\Downloads\ATM-master\ATM-master\ViewLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\remus\Downloads\ATM-master\ATM-master\ViewLayer\bin\Debug\netcoreapp3.1\LogicLayer.dll
+C:\Users\remus\Downloads\ATM-master\ATM-master\ViewLayer\bin\Debug\netcoreapp3.1\BOLayer.pdb
+C:\Users\remus\Downloads\ATM-master\ATM-master\ViewLayer\bin\Debug\netcoreapp3.1\LogicLayer.pdb
+C:\Users\remus\Downloads\ATM-master\ATM-master\ViewLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\remus\Downloads\ATM-master\ATM-master\ViewLayer\obj\Debug\netcoreapp3.1\ViewLayer.csproj.AssemblyReference.cache
+C:\Users\remus\Downloads\ATM-master\ATM-master\ViewLayer\obj\Debug\netcoreapp3.1\ViewLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remus\Downloads\ATM-master\ATM-master\ViewLayer\obj\Debug\netcoreapp3.1\ViewLayer.AssemblyInfoInputs.cache
+C:\Users\remus\Downloads\ATM-master\ATM-master\ViewLayer\obj\Debug\netcoreapp3.1\ViewLayer.AssemblyInfo.cs
+C:\Users\remus\Downloads\ATM-master\ATM-master\ViewLayer\obj\Debug\netcoreapp3.1\ViewLayer.csproj.CoreCompileInputs.cache
+C:\Users\remus\Downloads\ATM-master\ATM-master\ViewLayer\obj\Debug\netcoreapp3.1\ViewLayer.csproj.CopyComplete
+C:\Users\remus\Downloads\ATM-master\ATM-master\ViewLayer\obj\Debug\netcoreapp3.1\ViewLayer.dll
+C:\Users\remus\Downloads\ATM-master\ATM-master\ViewLayer\obj\Debug\netcoreapp3.1\ViewLayer.pdb
